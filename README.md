@@ -1,6 +1,6 @@
 # plot_localisations
 
-It creates a png file which display the map of France with the localisations of darty's shops.
+It creates a png file which displays the map of France with the localisations of darty's shops.
 
 To run this notebook you need a shapefile of France.
 
